@@ -69,21 +69,6 @@ I design, build, and ship production software end-to-end: modern frontends, robu
 - Performance and reliability work (profiling, caching, async/event-driven patterns).  
 - Secure coding and basic VAPT workflows integrated into delivery pipelines when relevant.
 
----
-
-## Open-Source & Activity
-
-<p>
-  <a href="https://github-readme-stats.vercel.app/api?username=imramis&show_icons=true&theme=transparent">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imramis&show_icons=true&theme=transparent" height="160"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imramis&layout=compact&theme=transparent">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imramis&layout=compact&theme=transparent" height="160"/>
-  </a>
-</p>
-
----
-
 ### Contact
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/imramis" target="_blank">/in/imramis</a>  
