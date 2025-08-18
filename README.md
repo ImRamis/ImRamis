@@ -35,7 +35,7 @@ I design, build, and ship production software end-to-end: modern frontends, robu
 
 ## Technical Profile
 
-**Languages:** Python · Rust · Go · PHP · JavaScript/TypeScript · SQL
+**Languages:** Python · Rust · Go · PHP · JavaScript/TypeScript · SQL \
 **Frameworks/Libraries:** Django/Flask/FastAPI · React · Next.js · Angular · Node.js · Express · Laravel · Asyncio · Scrapy · Pandas · Pytest  
 **Data/Infra:** PostgreSQL · MySQL/MariaDB · MongoDB · Redis · Nginx  
 **Cloud/DevOps:** AWS · Azure · GCP · Docker · Kubernetes · CI/CD · Observability (logs/metrics/traces)  
