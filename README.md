@@ -40,6 +40,7 @@ I design, build, and ship production software end-to-end: modern frontends, robu
 **Data/Infra:** PostgreSQL · MySQL/MariaDB · MongoDB · Redis · Nginx  
 **Cloud/DevOps:** AWS · Azure · GCP · Docker · Kubernetes · CI/CD · Observability (logs/metrics/traces)  
 **Practices:** TDD · Code Review · Clean Architecture · Design Patterns · SSDLC (secure coding, reviews) · Agile/Scrum
+
 <p>
   <img alt="Django" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img alt="Flask" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
@@ -49,7 +50,7 @@ I design, build, and ship production software end-to-end: modern frontends, robu
   <img alt="Next.js" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   <img alt="Angular" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
   <img alt="Node.js" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Laravel" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+  <img alt="Laravel" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
   <img alt="PostgreSQL" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="MySQL" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="MongoDB" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
