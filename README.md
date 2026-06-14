@@ -1,81 +1,98 @@
-<!--
-  GitHub Profile README
-  Repo: github.com/imramis/imramis
-  Author: M. Ramis
--->
-
-<h1 align="center">Hi, I’m <span title="Pronounced ‘Ramis’">M. Ramis</span></h1>
+<!-- Profile README · github.com/ImRamis -->
 
 <p align="center">
-  <strong>Software Engineer (Full-Stack)</strong> · Web, APIs, Data · Cloud & DevOps · Security-aware delivery
-  <br/>
-  <a href="https://www.linkedin.com/in/imramis" target="_blank">LinkedIn</a> ·
-  <a href="mailto:mramis1@outlook.com">Email</a>
+  <a href="https://ramis.me">
+    <img src="https://raw.githubusercontent.com/ImRamis/ImRamis/main/assets/header.svg" alt="Muhammad Ramis — Software & AI Engineer · OSCP+ Penetration Tester" width="100%"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/imramis?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/imramis?label=Follow&style=flat-square">
-  </a>
-  <a href="https://credentials.offsec.com/5185a463-88bf-4ad2-8546-2555585d8cc4">
-  <img alt="OSCP" src="https://img.shields.io/badge/OSCP-credential-blue?style=flat-square">
-  </a>
-  <a href="https://credentials.offsec.com/559e642d-824b-4657-bdd9-8b315e1845f7">
-  <img alt="OSCP+" src="https://img.shields.io/badge/OSCP%2B-credential-blue?style=flat-square">
-  </a>
+  <a href="https://github.com/ImRamis?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=5CC6DD&center=true&vCenter=true&width=720&height=42&lines=I+build+production+software.;I+engineer+LLM+agents+%26+RAG+systems.;I+break+things+to+make+them+safer.;I+sweat+the+UI%2FUX+details." alt="What I do"/></a>
+</p>
+
+<p align="center">
+  <a href="https://ramis.me"><img src="https://img.shields.io/badge/Portfolio-ramis.me-5CC6DD?style=for-the-badge&logo=safari&logoColor=white&labelColor=0a0c12"/></a>
+  <a href="https://www.linkedin.com/in/imramis"><img src="https://img.shields.io/badge/LinkedIn-imramis-6f78d6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0c12"/></a>
+  <a href="mailto:hello@ramis.me"><img src="https://img.shields.io/badge/Email-hello@ramis.me-8278d9?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0a0c12"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ImRamis&style=for-the-badge&color=2fb389&label=PROFILE+VIEWS&labelColor=0a0c12"/>
 </p>
 
 ---
 
-## About
+### `whoami`
 
-I design, build, and ship production software end-to-end: modern frontends, robust backends, well-structured databases, and cloud deployments with observability. My approach is pragmatic and test-driven, with attention to performance, reliability, and developer experience. I apply security best practices (secure coding, reviews, basic VAPT workflows) to support delivery—not as an end in itself, but to make shipped software safer and sturdier.
+Software & AI engineer with **10+ years** shipping production systems — and an **OSCP+** penetration tester who breaks things to make them safer. I work across the whole stack: distributed backends in **Java / Kafka / .NET / Go**, **agentic AI & RAG** pipelines, **React** front-ends I actually care about, and offensive security on the side. I like systems that are fast, observable, hard to break, and a pleasure to use.
+
+- 🛠️ &nbsp;**Engineering** — 30+ production systems over a decade: event-driven services, APIs, data platforms, cloud & DevOps.
+- 🤖 &nbsp;**AI / ML** — LLM agents, retrieval-augmented generation, evals, and applied R&D (incl. **BugTraceAI**).
+- 🛡️ &nbsp;**Security** — OSCP + OSCP+, 51 manually-validated findings, secure-by-default delivery.
+- 🎨 &nbsp;**UI / UX** — design-led front-ends; my portfolio at [ramis.me](https://ramis.me) is hand-rolled, zero-framework.
+
+<br/>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="150"><img src="https://raw.githubusercontent.com/ImRamis/ImRamis/main/assets/emblems/engineering.svg" width="60" height="60" alt="Engineering"/><br/><sub><b>Engineering</b></sub></td>
+    <td align="center" width="150"><img src="https://raw.githubusercontent.com/ImRamis/ImRamis/main/assets/emblems/aiml.svg" width="60" height="60" alt="AI / ML"/><br/><sub><b>AI / ML</b></sub></td>
+    <td align="center" width="150"><img src="https://raw.githubusercontent.com/ImRamis/ImRamis/main/assets/emblems/cybersecurity.svg" width="60" height="60" alt="Security"/><br/><sub><b>Security</b></sub></td>
+    <td align="center" width="150"><img src="https://raw.githubusercontent.com/ImRamis/ImRamis/main/assets/emblems/uiux.svg" width="60" height="60" alt="UI / UX"/><br/><sub><b>UI / UX</b></sub></td>
+    <td align="center" width="150"><img src="https://raw.githubusercontent.com/ImRamis/ImRamis/main/assets/emblems/everything.svg" width="60" height="60" alt="Everything"/><br/><sub><b>Everything</b></sub></td>
+  </tr>
+</table>
 
 ---
 
-## Technical Profile
+### `tech --stack`
 
-**Languages:** Python · Rust · Go · PHP · JavaScript/TypeScript · SQL \
-**Frameworks/Libraries:** Django/Flask/FastAPI · React · Next.js · Angular · Node.js · Express · Laravel · Asyncio · Scrapy · Pandas · Pytest  
-**Data/Infra:** PostgreSQL · MySQL/MariaDB · MongoDB · Redis · Nginx  
-**Cloud/DevOps:** AWS · Azure · GCP · Docker · Kubernetes · CI/CD · Observability (logs/metrics/traces)  
-**Practices:** TDD · Code Review · Clean Architecture · Design Patterns · SSDLC (secure coding, reviews) · Agile/Scrum
-
+**Languages**
 <p>
-  <img alt="Django" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img alt="Flask" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-  <img alt="JavaScript" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Next.js" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img alt="Angular" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
-  <img alt="Node.js" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Laravel" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-  <img alt="PostgreSQL" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="MySQL" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="MongoDB" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img alt="Docker" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img alt="Kubernetes" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"/>
-  <img alt="AWS" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img alt="Azure" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
-  <img alt="GCP" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"/>
+  <img src="https://skillicons.dev/icons?i=java,python,go,rust,ts,js,php,cs,sql,bash" alt="languages"/>
+</p>
+
+**Backend · Data · AI**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,kafka,postgres,redis,elasticsearch,pytorch,tensorflow" alt="backend, data, ai"/>
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,vite,figma,threejs" alt="frontend"/>
+</p>
+
+**Cloud · DevOps · Security**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,githubactions,grafana,kali" alt="cloud, devops, security"/>
 </p>
 
 ---
 
-## Recent Themes
-
-- Building small, testable services with clear API contracts and documented failure modes.  
-- Performance and reliability work (profiling, caching, async/event-driven patterns).  
-- Secure coding and basic VAPT workflows integrated into delivery pipelines when relevant.
-
-### Contact
-
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/imramis" target="_blank">/in/imramis</a>  
-- ✉️ Email: <a href="mailto:mramis1@outlook.com">mramis1@outlook.com</a>
-
----
+### `git log --stat`
 
 <p align="center">
-  <sub>Author: <strong>M. Ramis</strong> — Profile summary for public viewing.</sub>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ImRamis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=5CC6DD&icon_color=8278D9&text_color=9aa3b5" alt="GitHub stats"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRamis&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=5CC6DD&text_color=9aa3b5" alt="Top languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImRamis&hide_border=true&background=00000000&stroke=1f2430&ring=5CC6DD&fire=e0556d&currStreakLabel=5CC6DD&sideLabels=9aa3b5&dates=6f778c&currStreakNum=eaf6ff&sideNums=eaf6ff" alt="GitHub streak"/>
+</p>
+
+<!-- Contribution snake — generated by .github/workflows/snake.yml, served from the output branch.
+     The image appears blank until the workflow runs for the first time (push or the daily schedule). -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImRamis/ImRamis/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImRamis/ImRamis/output/github-snake.svg"/>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ImRamis/ImRamis/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+---
+
+<h3 align="center">Let's build something.</h3>
+
+<p align="center">
+  <a href="https://ramis.me">🌐 ramis.me</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/imramis">in/imramis</a> &nbsp;·&nbsp;
+  <a href="mailto:hello@ramis.me">hello@ramis.me</a>
+</p>
+
+<p align="center"><sub>Open to senior / staff engineering, applied-AI, and security-focused roles.</sub></p>
