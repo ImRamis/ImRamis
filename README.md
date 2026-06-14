@@ -23,10 +23,10 @@
 
 Software & AI engineer with **10+ years** shipping production systems, and an **OSCP+** penetration tester who breaks things to make them safer. I work across the whole stack: distributed backends in **Java / Kafka / .NET / Go**, **agentic AI & RAG** pipelines, **React** front-ends I actually care about, and offensive security on the side. I like systems that are fast, observable, hard to break, and a pleasure to use.
 
-- 🛠️ &nbsp;**Engineering** · 30+ production systems over a decade: event-driven services, APIs, data platforms, cloud & DevOps.
-- 🤖 &nbsp;**AI / ML** · LLM agents, retrieval-augmented generation, evals, and applied R&D (incl. **BugTraceAI**).
-- 🛡️ &nbsp;**Security** · OSCP + OSCP+, 51 manually-validated findings, secure-by-default delivery.
-- 🎨 &nbsp;**UI / UX** · design-led front-ends; my portfolio at [ramis.me](https://ramis.me) is hand-rolled, zero-framework.
+- **Engineering** · 30+ production systems over a decade: event-driven services, APIs, data platforms, cloud & DevOps.
+- **AI / ML** · LLM agents, retrieval-augmented generation, evals, and applied R&D (incl. **BugTraceAI**).
+- **Security** · OSCP + OSCP+, 51 manually-validated findings, secure-by-default delivery.
+- **UI / UX** · design-led front-ends; my portfolio at [ramis.me](https://ramis.me) is hand-rolled, zero-framework.
 
 <br/>
 
@@ -90,7 +90,7 @@ Software & AI engineer with **10+ years** shipping production systems, and an **
 <h3 align="center">Let's build something.</h3>
 
 <p align="center">
-  <a href="https://ramis.me">🌐 ramis.me</a> &nbsp;·&nbsp;
+  <a href="https://ramis.me">ramis.me</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/imramis">in/imramis</a> &nbsp;·&nbsp;
   <a href="mailto:hello@ramis.me">hello@ramis.me</a>
 </p>
