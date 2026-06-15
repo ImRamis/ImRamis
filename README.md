@@ -25,7 +25,7 @@ Software & AI engineer with **10+ years** shipping production systems, and an **
 
 - **Engineering** · 30+ production systems over a decade: event-driven services, APIs, data platforms, cloud & DevOps.
 - **AI / ML** · LLM agents, retrieval-augmented generation, evals, and applied R&D (incl. **BugTraceAI**).
-- **Security** · OSCP + OSCP+, 51 manually-validated findings, secure-by-default delivery.
+- **Security** · OSCP + OSCP+, OffSec Gauntlet 2025 (4th of ~9,000), 51 manually-validated findings across public and private programs, secure-by-default delivery.
 - **UI / UX** · design-led front-ends; my portfolio at [ramis.me](https://ramis.me) is hand-rolled, zero-framework.
 
 <br/>
